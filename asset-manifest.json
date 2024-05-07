@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b8d50fe2.css",
+    "main.js": "/static/js/main.705e9977.js",
+    "static/media/maxresdefault-3175185557.jpg": "/static/media/maxresdefault-3175185557.261ac3acffabe05d44dc.jpg",
+    "static/media/satu.png": "/static/media/satu.6b07d78e91df70f3fada.png",
+    "index.html": "/index.html",
+    "main.b8d50fe2.css.map": "/static/css/main.b8d50fe2.css.map",
+    "main.705e9977.js.map": "/static/js/main.705e9977.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b8d50fe2.css",
+    "static/js/main.705e9977.js"
+  ]
+}
